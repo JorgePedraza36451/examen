@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">examen</string>
+
+    <!-- home Screen-->
+    <string name="home_name">Name</string>
+    <string name="home_see_details">See details</string>
+    <string name="home_hide_detail">Hide Details</string>
+    <string name="home_status">Status</string>
+    <string name="home_species">Species</string>
+    <string name="home_type">Type</string>
+    <string name="home_gender">Gender</string>
+    <string name="home_origin">Origin</string>
+    <string name="home_location">Location</string>
+
+</resources>
